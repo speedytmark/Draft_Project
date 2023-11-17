@@ -25,7 +25,7 @@ Olympic data set obtained from Kaggle:
 **Accessed:** 10/8/2023  
 **URL:** https://www.kaggle.com/datasets/samruddhim/olympics-althlete-events-analysis  
 
-Population data set obtained from Kaggle:  
+Temperature data set obtained from Kaggle:  
 **Title:** Global Average Land Temperature by Country 
 **Author:** Berkley Earth  
 **Accessed:** 10/15/2023  
